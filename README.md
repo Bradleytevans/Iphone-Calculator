@@ -7,10 +7,7 @@ An Iphone Calculator built using React, HTML, and CSS
 
 ## Table of Contents
 * [Installation](#installation)
-* [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation
